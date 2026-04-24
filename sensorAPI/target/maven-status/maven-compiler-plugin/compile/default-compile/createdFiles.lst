@@ -1,0 +1,15 @@
+com/mycompany/sensorapi/RoomNotFoundForSensorException.class
+com/mycompany/sensorapi/RoomHasSensorsException.class
+com/mycompany/sensorapi/ApiLoggingFilter.class
+com/mycompany/sensorapi/SensorReadingResource.class
+com/mycompany/sensorapi/Sensor.class
+com/mycompany/sensorapi/Room.class
+com/mycompany/sensorapi/RoomResource.class
+com/mycompany/sensorapi/RoomNotFoundForSensorMapper.class
+com/mycompany/sensorapi/SensorReading.class
+com/mycompany/sensorapi/SensorUnavailableMapper.class
+com/mycompany/sensorapi/RoomHasSensorsMapper.class
+com/mycompany/sensorapi/SensorUnavailableException.class
+com/mycompany/sensorapi/SensorResource.class
+com/mycompany/sensorapi/SensorAPI.class
+com/mycompany/sensorapi/Main.class
